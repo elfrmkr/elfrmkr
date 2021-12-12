@@ -8,8 +8,8 @@ I am Elif. Passionate about frontend development, being part of evolving and con
 - 🌱 I’m currently improving my knowledge on Data Structures and Algorithms 
 
 - 📫 How to reach me: 
-<a href = 'https://www.linkedin.com/in/elif-irem-kara/'> LinkedIn <img width = '15px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/elfrmkr'>Github   <img width = '15px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.linkedin.com/in/elif-irem-kara/'> LinkedIn <img width = '12px center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/elfrmkr'>Github   <img width = '12px center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <br/>
 
 ## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align= 'center' width ='20px'> 
