@@ -2,9 +2,9 @@
 
 Hey there, <br/>
 <br/>
-I am Elif. Passionate about frontend development, being part of evolving and constantly changing processes, having an opportunity to interact with new tools, learning fresh skills, and seeing the results of the hard work.
+I'm Elif.
 
-- 🔭 I’m currently working as a Frontend Web Developer in Milvus Robotics
+- 🔭 I’m currently working as a Frontend Developer in Milvus Robotics
 
 - 🌱 I’m currently improving my knowledge on Data Structures and Algorithms 
 
@@ -24,6 +24,9 @@ I am Elif. Passionate about frontend development, being part of evolving and con
 <img width ='36px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width='36px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>
 <img width ='36px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>  
+<img width ='36px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> 
+<img width ='36px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>  
+ 
 <img  align='center'  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 </p><br/>
