@@ -44,9 +44,9 @@ I'm Elif.
 
 </p><br/>
 
-## Most Used Languages 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=151515"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36" ></a></h2>
-<br/>
+<!--## Most Used Languages 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=151515"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36&env=PAT_1" ></a></h2>
+<br/>-->
 
 ## Statistics 
 <img align="center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfrmkr&theme=radical&hide_border=true"/><br><br>
