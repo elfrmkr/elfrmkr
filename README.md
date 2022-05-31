@@ -4,7 +4,7 @@ Hey there, <br/>
 <br/>
 I'm Elif.
 
-- 🔭 I’m currently working as a Frontend Developer in Milvus Robotics
+- 🔭 I’m currently working as a Frontend Developer at Milvus Robotics
 
 - 🌱 I’m currently improving my knowledge on Data Structures and Algorithms 
 
