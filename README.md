@@ -6,7 +6,7 @@ I'm Elif.
 
 - 🔭 I’m currently working as a Frontend Developer at Milvus Robotics
 
-- 🌱 I’m currently improving my knowledge on Data Structures and Algorithms 
+- 🌱 I’m improving my DS-Algorithms skills and working on extending my knowledge on Node.js 
 
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a><br><br>
 
