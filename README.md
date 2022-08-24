@@ -53,6 +53,9 @@ I'm Elif.
 ## Github Stats
 <img align="center" justify="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elfrmkr&show_icons=true&theme=radical&hide_border=true" />
 
+## LeetCode Stats
+<img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" />
+
 <!--
 **elfrmkr/elfrmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
