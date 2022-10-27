@@ -56,6 +56,10 @@ I'm Elif.
 ## LeetCode Stats
 <img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" />
 
+
+## Activity Graph
+   <a href="https://github.com/elfrmkr"><img alt="Elif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elfrmkr&custom_title=elfrmkr's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 <!--
 **elfrmkr/elfrmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
