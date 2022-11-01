@@ -6,7 +6,7 @@
 
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a><br><br>
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 <p display="flex"  align="left" >
 <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
  
@@ -43,16 +43,16 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=151515"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36&env=PAT_1" ></a></h2>
 <br/>-->
 
-<h3 align="left"> Statistics </h3>
+<h2 align="left"> Statistics </h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfrmkr&theme=radical&hide_border=true"/> <br/>
 
-<h3 align="left"> Github Stats </h3>
+<h2 align="left"> Github Stats </h2>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elfrmkr&show_icons=true&theme=radical&hide_border=true" /> <br/>
 
-<h3 align="left"> LeetCode Stats </h3>
+<h2 align="left"> LeetCode Stats </h2>
 <img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" /> <br/>
 
-<h3 align="left"> Activity Graph </h3>
+<h2 align="left"> Activity Graph </h2>
    <a href="https://github.com/elfrmkr"><img alt="Elif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elfrmkr&custom_title=elfrmkr's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <!--
