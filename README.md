@@ -53,11 +53,11 @@
 <br/>
 <h2 align="left"> LeetCode Stats </h2>
 <img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" /> <br/>
-
+<!--
 <h2 align="left"> Activity Graph </h2>
    <a href="https://github.com/elfrmkr"><img alt="Elif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elfrmkr&custom_title=elfrmkr's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-<!--
+
 **elfrmkr/elfrmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
