@@ -4,7 +4,9 @@
 
 - 🌱 I’m improving my DS-Algorithms skills and working on extending my knowledge on Node.js 
 
-- 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a><br><br>
+- 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a>
+
+- ⚡⚡ Checkout my <a href="https://medium.com/@elfrmkr98">Medium</a> account for blogs! <br><br>
 
 <h2 align="left">Languages and Tools</h2>
 <p display="flex"  align="left" >
