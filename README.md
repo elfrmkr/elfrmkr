@@ -50,12 +50,16 @@
 
 <h2 align="left"> Github Stats </h2>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elfrmkr&show_icons=true&theme=radical&hide_border=true" /> <br/>
+
+
+
+<!--
+<h2 align="left"> LeetCode Stats </h2>
+<img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" /> <br/>
+
 <h2 align="left"> Top Languages </h2>
 <img width="500px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&theme=radical&hide_border=true""/>
 <br/>
-<h2 align="left"> LeetCode Stats </h2>
-<img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Karma&ext=contest" /> <br/>
-<!--
 <h2 align="left"> Activity Graph </h2>
    <a href="https://github.com/elfrmkr"><img alt="Elif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elfrmkr&custom_title=elfrmkr's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
