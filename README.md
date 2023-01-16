@@ -6,7 +6,9 @@
 
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a>
 
-- ⚡⚡ Checkout my <a href="https://medium.com/@elfrmkr98">Medium</a> account for blogs! <br><br>
+- ⚡⚡ Checkout my <a href="https://medium.com/@elfrmkr98">Medium</a> account for blogs! 
+
+- :computer:	 My account on <a href="https://leetcode.com/elfrmkr">LeetCode</a> <br><br>
 
 <h2 align="left">Languages and Tools</h2>
 <p display="flex"  align="left" >
