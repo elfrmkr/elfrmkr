@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Elif</h2>
 
-- 🔭 I’m currently working as a Frontend Developer at Milvus Robotics
+- 🔭 I’m a Frontend Developer
 
 - 🌱 I’m improving my DS-Algorithms skills and working on extending my knowledge on Node.js 
 
