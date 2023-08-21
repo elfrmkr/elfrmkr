@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Frontend Developer
 
-- 🌱 I’m improving my DS-Algorithms skills and working on extending my knowledge on Node.js 
+- 🌱 I'm on a mission to learn SQL and databases
 
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a>
 
