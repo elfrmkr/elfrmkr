@@ -40,7 +40,7 @@
  
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="44" height="40"/>
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="52"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6mD4pnYFF0ZgCf0a_dLeDBL1X8qDex9hl0KHhuzlu4FSm3j57N0_3ihgibHaTPTWPbY&usqp=CAU" alt="sql" width="44" height="40"/>
 </p><br/>
 
 <!--## Most Used Languages 
