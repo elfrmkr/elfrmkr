@@ -45,10 +45,10 @@
 
 <!--## Most Used Languages 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=151515"><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&text_color=daf7dc&bg_color=282a36&border_color=282a36&env=PAT_1" ></a></h2>
-<br/>-->
+<br/>
 
 <h2 align="left"> Statistics </h2>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfrmkr&theme=radical&hide_border=true"/> <br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elfrmkr&theme=radical&hide_border=true"/>--> <br/>
 
 <h2 align="left"> Github Stats </h2>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=elfrmkr&show_icons=true&theme=radical&hide_border=true" /> <br/>
