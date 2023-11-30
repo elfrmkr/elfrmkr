@@ -56,7 +56,7 @@
 
 
 <h2 align="left"> LeetCode Stats </h2>
-<img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=unicorn&font=Urbanist&ext=heatmap" /> <br/>
+<img width="500px" src="https://leetcard.jacoblin.cool/elfrmkr?theme=dark&font=Urbanist&ext=heatmap" /> <br/>
 
 <h2 align="left"> Top Languages </h2>
 <img width="500px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=elfrmkr&layout=compact&theme=radical&hide_border=true""/>
