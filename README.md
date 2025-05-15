@@ -2,17 +2,41 @@
 
 - 🔭 I’m a Frontend Developer
 
-- 🌱 I'm on a mission to learn and share knowledge!!! I have recently started learning Kotlin!
-
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a>
 
 - ⚡⚡ Checkout my <a href="https://medium.com/@elfrmkr98">Medium</a> account for blogs! 
 
 - :computer:	 My account on <a href="https://leetcode.com/elfrmkr">LeetCode</a> <br><br>
 
+
+## ✨ Spanish Checkpoint  
+**Understand more. Forget less.**
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ea8e9083-8c7c-4210-b0fb-598c3a91bb38" width="480" alt="spanish" />
+</p>
+
+A web app I built from scratch to make learning Spanish clearer and more memorable.
+
+- Quick, clear grammar guides with examples  
+
+- Everyday phrases and useful vocabulary  
+
+- Short quizzes that explain your mistakes  
+
+- Real language, not just rules
+
+[👉 Try it for free and let me know what you think!](https://spanish-checkpoint.web.app/)
+
+I'd love to hear your thoughts, whether you're learning Spanish or just curious how it's built.
+
+<br><br>
+
 <h2 align="left">Languages and Tools</h2>
 <p display="flex"  align="left" >
+ 
 <img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
+ 
+<img width ='44px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> 
  
 <img width='44px'  src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'>
 
