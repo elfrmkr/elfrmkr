@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Elif</h2>
 
 - 🔭 I’m a Frontend Developer
+  
+- Check out my <a  href="https://elfrmkr.github.io/portfolio-elfrmkr/"> portfolio </a>
 
 - 📫 Find me on <a href="https://www.linkedin.com/in/elif-irem-kara/">Linkedin</a>
 
